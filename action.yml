@@ -1,6 +1,5 @@
 name: "Setup Allincart"
 description: "Install Allincart with specific versions in your CI"
-author: "allincart AG"
 branding:
   color: "blue"
   icon: "download"
