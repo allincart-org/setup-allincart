@@ -43,7 +43,7 @@ inputs:
   install-currency:
     description: "Currency to install"
     required: true
-    default: "EUR"
+    default: "CNY"
   keep-composer-tools:
     description: "Keep Allincart Composer tools (PHPStan, ECS, BC-Checker)"
     required: true
